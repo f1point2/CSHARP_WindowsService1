@@ -39,7 +39,7 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.Description = "Windows Service 1 - A service for testing";
+            this.serviceInstaller1.Description = "A Windows Service for testing";
             this.serviceInstaller1.DisplayName = "Windows Service 1 - DN";
             this.serviceInstaller1.ServiceName = "WindowsService1";
             // 
